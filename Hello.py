@@ -1,21 +1,21 @@
 #declaring datatypes of different variables
-# msg="Hello World"
-# print(type(msg))
+msg="Hello World"
+print(type(msg))
 
-# num=12
-# print(type(num))
+num=12
+print(type(num))
 
-# float_num=12.22
-# print(type(float_num))
+float_num=12.22
+print(type(float_num))
 
-# message= True
-# print(type(message))
+message= True
+print(type(message))
 
-# fruit=["apple,banana,mango"]
-# print(type(fruit))
+fruit=["apple,banana,mango"]
+print(type(fruit))
 
-# veggies=("potato","tomato",fruit)
-# print(type(veggies))
+veggies=("potato","tomato",fruit)
+print(type(veggies))
 
 String1='Welcome to the Geeks World'
 print("String with the use of Single Quotes:")
