@@ -1,16 +1,16 @@
 #use of continue program to skip india and print other countries of SAARC country
-# countries=["Nepal","Bangladesh","India","Pakistan","Bhutan","Srilanka","Maldives"]
-# for  name in countries:
-#     if name=="India":
-#         continue
-#     print(name)
+countries=["Nepal","Bangladesh","India","Pakistan","Bhutan","Srilanka","Maldives"]
+for  name in countries:
+    if name=="India":
+        continue
+    print(name)
 
 # use of break statement to terminate loop after india 
-# countries=["Nepal","Bangladesh","India","Pakistan","Bhutan","Srilanka","Maldives"]
-# for  name in countries:
-#     if name=="India":
-#         break
-#     print(name)
+countries=["Nepal","Bangladesh","India","Pakistan","Bhutan","Srilanka","Maldives"]
+for  name in countries:
+    if name=="India":
+        break
+    print(name)
 
 #use of pass statement
 x=25
